@@ -30,5 +30,8 @@ public class ImageViewer {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		// make frame visible
 		frame.setVisible(true);
+
+		// 추가적인 코드, 깃허브 테스트
+		// 추가적인 코드, 깃허브 테스트
 	}
 }
